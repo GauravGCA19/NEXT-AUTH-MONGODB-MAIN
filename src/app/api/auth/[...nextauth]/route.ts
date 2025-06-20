@@ -69,3 +69,4 @@ export const authOptions: any = {
 
 export const handler = NextAuth(authOptions);
 export { handler as GET, handler as POST };
+"// Bharathesh: handles token-based password reset" 
