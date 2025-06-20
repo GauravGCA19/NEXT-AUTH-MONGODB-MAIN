@@ -103,3 +103,4 @@ const Register = () => {
 };
 
 export default Register;
+"// Register form styled and documented by Mirelda" 
